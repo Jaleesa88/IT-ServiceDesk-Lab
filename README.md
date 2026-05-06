@@ -45,8 +45,6 @@ This repository was created to strengthen hands-on IT knowledge while showcasing
 Examples of common IT support issues including:
 - Password reset requests
 - VPN connection issues
-- Printer connectivity problems
-- Email synchronization issues
 - Software installation support
 - User access troubleshooting
 
@@ -66,7 +64,7 @@ Examples of IT support processes including:
 - Ticket escalation procedures
 - Incident response workflows
 - User support communication
-- Troubleshooting methodologies
+- Troubleshooting support
 
 ---
 
