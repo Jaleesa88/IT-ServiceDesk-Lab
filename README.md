@@ -70,28 +70,6 @@ Examples of IT support processes including:
 
 ---
 
-# Repository Structure
-
-```plaintext
-IT-Support-Operations/
-│
-├── documentation/
-├── incident-reports/
-├── troubleshooting-guides/
-├── ticket-examples/
-├── system-support/
-├── screenshots/
-└── README.md
-
-
-
-
-
-
-
-
-
-
 
 
 
