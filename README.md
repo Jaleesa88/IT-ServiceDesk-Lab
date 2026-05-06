@@ -82,7 +82,7 @@ Examples of IT support processes including:
 ### Hello My Name is Jaleesa Perry-Mack
 
 
-<h1>INFORMATION TECHNOLOGY PROJECT</h1>
+<h1>HELPDESK-TICKETING-SIMULATION</h1>
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a00506c3-3d1e-4e0f-b6fa-5364e3e513b1" />
 
 <h2>Environments and Technologies Used</h2>
